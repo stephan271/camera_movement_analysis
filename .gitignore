@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Python caching & bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS-specific temporary files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific temporary outputs
+# Un-comment the line below if you want to exclude the raw video clip from GitHub (highly recommended if it's large)
+# clip.mp4
